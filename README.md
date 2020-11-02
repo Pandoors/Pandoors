@@ -1,4 +1,4 @@
-### Computer Science and AI student at AGH University of Science and Technology
+### Computer Science student at AGH University of Science and Technology
 
 
 <!--
