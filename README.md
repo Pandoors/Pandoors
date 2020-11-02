@@ -1,4 +1,4 @@
-### Computer Science student at AGH University of Science and Technology
+### Studying Computer Science at AGH University of Science and Technology
 
 
 <!--
