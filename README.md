@@ -1,5 +1,5 @@
-### Studying Computer Science at AGH University of Science and Technology 
-# Interesting article https://github.com/Pandoors/social-driving
+# Studying Computer Science at AGH University of Science and Technology 
+### Interesting article https://github.com/Pandoors/social-driving
 
 
 <!--
