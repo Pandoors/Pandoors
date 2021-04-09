@@ -1,5 +1,5 @@
 # Studying Computer Science at AGH University of Science and Technology 
-### Interesting article [Emergent Road Rules In Multi-Agent Driving Environments](https://github.com/Pandoors/social-driving)
+### Recent project: [Python Labyrinth generator](https://github.com/AGH-Narzedzia-Informatyczne/Project_Labyrinth)
 
 
 <!--
