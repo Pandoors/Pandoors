@@ -1,5 +1,4 @@
-# Studying Computer Science at AGH University of Science and Technology 
-### Recent project: [Python Labyrinth generator](https://github.com/AGH-Narzedzia-Informatyczne/Project_Labyrinth)
+## Software Engineer and Computer Science student at AGH University of Science and Technology
 
 
 <!--
